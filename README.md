@@ -38,4 +38,18 @@
       <td>1.3</td>
       <td><a href="https://open.kattis.com/problems/jackolanternjuxtaposition">link</a></td>
     </tr>
+    <tr>
+      <td>cold</td>
+      <td>Cold-puter Science</td>
+      <td>[Python, JavaScript]</td>
+      <td>1.3</td>
+      <td><a href="https://open.kattis.com/problems/cold">link</a></td>
+    </tr>
+    <tr>
+      <td>whichisgreater</td>
+      <td>Which is Greater?</td>
+      <td>[Python, JavaScript]</td>
+      <td>1.3</td>
+      <td><a href="https://open.kattis.com/problems/whichisgreater">link</a></td>
+    </tr>
   </table>
