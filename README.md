@@ -52,4 +52,11 @@
       <td>1.3</td>
       <td><a href="https://open.kattis.com/problems/whichisgreater">link</a></td>
     </tr>
+    <tr>
+      <td>echoechoecho</td>
+      <td>Echo Echo Echo</td>
+      <td>[Python, JavaScript]</td>
+      <td>1.3</td>
+      <td><a href="https://open.kattis.com/problems/echoechoecho">link</a></td>
+    </tr>
   </table>
