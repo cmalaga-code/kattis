@@ -18,6 +18,13 @@
       <th>url</th>
     </tr>
     <tr>
+      <td>spavanac</td>
+      <td>Spavanac</td>
+      <td>[Python, JavaScript]</td>
+      <td>1.4</td>
+      <td><a href="https://open.kattis.com/problems/spavanac">link</a></td>
+    </tr>
+    <tr>
       <td>hello</td>
       <td>Hello World!</td>
       <td>[Python, JavaScript]</td>
