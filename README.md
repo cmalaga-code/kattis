@@ -18,6 +18,13 @@
       <th>url</th>
     </tr>
     <tr>
+      <td>laptopsticker</td>
+      <td>Laptop Sticker</td>
+      <td>[Python]</td>
+      <td>1.4</td>
+      <td><a href="https://open.kattis.com/problems/laptopsticker">link</a></td>
+    </tr>
+    <tr>
       <td>nodup</td>
       <td>No Duplicates</td>
       <td>[Python]</td>
